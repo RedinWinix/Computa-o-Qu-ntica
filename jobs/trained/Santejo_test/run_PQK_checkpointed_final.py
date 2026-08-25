@@ -32,7 +32,7 @@ seed = 321
 np.random.seed(seed)
 algorithm_globals.random_seed = seed
 m = 2
-full_ent = False # set True for e.g. the "3D-CNOT" variant of xyz_encoded
+full_ent = True # set True for e.g. the "3D-CNOT" variant of xyz_encoded
 if m == 1:
     my_obs = ['XIIIII', 'IXIIII', 'IIXIII', 'IIIXII', 'IIIIXI', 'IIIIIX',
             'YIIIII', 'IYIIII', 'IIYIII', 'IIIYII', 'IIIIYI', 'IIIIIY',

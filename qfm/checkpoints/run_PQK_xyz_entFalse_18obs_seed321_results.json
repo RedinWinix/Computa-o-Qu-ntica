@@ -1,0 +1,12 @@
+{
+   "run_id": "run_PQK_xyz_entFalse_18obs_seed321",
+   "method": "PQK_trainable",
+   "encoding": "xyz",
+   "full_ent": false,
+   "n_observables": 18,
+   "accuracy": 0.8423988842398884,
+   "f1": 0.840620592383639,
+   "kernel_training_seconds": 1847.6041312217712,
+   "svm_training_seconds": 612.387056350708,
+   "total_seconds": 2712.1696407794952
+}
