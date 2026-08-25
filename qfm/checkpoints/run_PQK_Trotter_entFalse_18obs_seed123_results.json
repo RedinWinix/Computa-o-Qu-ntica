@@ -1,0 +1,12 @@
+{
+   "run_id": "run_PQK_Trotter_entFalse_18obs_seed123",
+   "method": "PQK_trainable",
+   "encoding": "Trotter",
+   "full_ent": false,
+   "n_observables": 18,
+   "accuracy": 0.7866108786610879,
+   "f1": 0.7605633802816901,
+   "kernel_training_seconds": 2545.795926094055,
+   "svm_training_seconds": 836.9160161018372,
+   "total_seconds": 3935.038227558136
+}

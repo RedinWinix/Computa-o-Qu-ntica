@@ -1,0 +1,17 @@
+{
+   "run_id": "run_QK_realhw_xyz_entFalse_fake_lagos_train14_test7_20260824_144647",
+   "method": "QK_real_hardware",
+   "encoding": "xyz",
+   "full_ent": false,
+   "backend": "fake_lagos",
+   "use_fake_backend": true,
+   "n_points": 21,
+   "n_train": 14,
+   "n_test": 7,
+   "shots": 1024,
+   "accuracy": 0.5714285714285714,
+   "f1": 0.4,
+   "hardware_seconds": 5.948420286178589,
+   "total_seconds": 12.183170318603516,
+   "timestamp": "20260824_144647"
+}

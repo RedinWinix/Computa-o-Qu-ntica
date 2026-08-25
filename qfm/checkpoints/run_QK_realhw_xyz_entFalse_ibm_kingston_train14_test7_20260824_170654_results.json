@@ -1,0 +1,17 @@
+{
+   "run_id": "run_QK_realhw_xyz_entFalse_ibm_kingston_train14_test7_20260824_170654",
+   "method": "QK_real_hardware",
+   "encoding": "xyz",
+   "full_ent": false,
+   "backend": "ibm_kingston",
+   "use_fake_backend": false,
+   "n_points": 21,
+   "n_train": 14,
+   "n_test": 7,
+   "shots": 1024,
+   "accuracy": 0.42857142857142855,
+   "f1": 0.0,
+   "hardware_seconds": 6122.662371635437,
+   "total_seconds": 6444.821196556091,
+   "timestamp": "20260824_170654"
+}

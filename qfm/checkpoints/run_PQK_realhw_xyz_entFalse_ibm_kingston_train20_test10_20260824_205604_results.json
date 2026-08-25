@@ -1,0 +1,22 @@
+{
+   "run_id": "run_PQK_realhw_xyz_entFalse_ibm_kingston_train20_test10_20260824_205604",
+   "method": "PQK_real_hardware",
+   "encoding": "xyz",
+   "full_ent": false,
+   "backend": "ibm_kingston",
+   "use_fake_backend": false,
+   "weights_path": "qfm/checkpoints/run_PQK_xyz_entFalse_18obs_seed1234567_final_weights.json",
+   "used_pretrained_weights": true,
+   "n_points": 30,
+   "n_train": 20,
+   "n_test": 10,
+   "n_unique_points_measured": 30,
+   "n_observables": 18,
+   "shots": 1024,
+   "accuracy": 0.6,
+   "f1": 0.0,
+   "hardware_seconds": 321.7797133922577,
+   "svm_training_seconds": 0.029707908630371094,
+   "total_seconds": 321.8240432739258,
+   "timestamp": "20260824_205604"
+}

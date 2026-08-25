@@ -1,0 +1,12 @@
+{
+   "run_id": "run_PQK_IQP_entFalse_18obs_seed123",
+   "method": "PQK_trainable",
+   "encoding": "IQP",
+   "full_ent": false,
+   "n_observables": 18,
+   "accuracy": 0.7545327754532776,
+   "f1": 0.7124183006535948,
+   "kernel_training_seconds": 1924.447339773178,
+   "svm_training_seconds": 641.446471452713,
+   "total_seconds": 2848.179354906082
+}

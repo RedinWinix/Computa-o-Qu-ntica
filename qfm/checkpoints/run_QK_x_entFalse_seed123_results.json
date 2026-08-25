@@ -1,0 +1,12 @@
+{
+   "run_id": "run_QK_x_entFalse_seed123",
+   "method": "QK_trainable",
+   "encoding": "x",
+   "full_ent": false,
+   "max_iter": 1,
+   "accuracy": 0.8340306834030683,
+   "f1": 0.826783114992722,
+   "kernel_training_seconds": 38.1991012096405,
+   "svm_training_seconds": 13.25389552116394,
+   "total_seconds": 56.766937255859375
+}

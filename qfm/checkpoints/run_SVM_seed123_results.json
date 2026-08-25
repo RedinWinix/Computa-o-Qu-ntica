@@ -1,0 +1,12 @@
+{
+   "run_id": "run_SVM_seed123",
+   "method": "Classical_SVM",
+   "kernel": "rbf",
+   "C": 2,
+   "gamma": 4.0,
+   "accuracy": 0.8647140864714087,
+   "f1": 0.8541353383458646,
+   "kernel_training_seconds": 0.0,
+   "svm_training_seconds": 0.04042863845825195,
+   "total_seconds": 0.054317474365234375
+}

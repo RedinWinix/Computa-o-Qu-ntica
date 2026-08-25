@@ -1,0 +1,22 @@
+{
+   "run_id": "run_PQK_realhw_xyz_entFalse_fake_brisbane_train10_test5_20260824_204233",
+   "method": "PQK_real_hardware",
+   "encoding": "xyz",
+   "full_ent": false,
+   "backend": "fake_brisbane",
+   "use_fake_backend": true,
+   "weights_path": "qfm/checkpoints/run_PQK_xyz_entFalse_18obs_seed1234567_final_weights.json",
+   "used_pretrained_weights": true,
+   "n_points": 15,
+   "n_train": 10,
+   "n_test": 5,
+   "n_unique_points_measured": 15,
+   "n_observables": 18,
+   "shots": 1024,
+   "accuracy": 1.0,
+   "f1": 1.0,
+   "hardware_seconds": 151.91674780845642,
+   "svm_training_seconds": 0.007586479187011719,
+   "total_seconds": 151.92922401428223,
+   "timestamp": "20260824_204233"
+}

@@ -1,0 +1,12 @@
+{
+   "run_id": "run_QK_xyz_entFalse_seed123",
+   "method": "QK_trainable",
+   "encoding": "xyz",
+   "full_ent": false,
+   "max_iter": 1,
+   "accuracy": 0.8131101813110181,
+   "f1": 0.8091168091168092,
+   "kernel_training_seconds": 41.003376483917236,
+   "svm_training_seconds": 13.314740180969238,
+   "total_seconds": 59.94085502624512
+}
